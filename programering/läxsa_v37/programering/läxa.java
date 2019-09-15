@@ -1,7 +1,10 @@
 package programering;
 
+import java.util.Scanner;
+
 public class läxa {
 public static void main(String[] args) {
-		scanner name = new scanner();
+		Scanner name = new Scanner(System.in);
+		
 }
 }
