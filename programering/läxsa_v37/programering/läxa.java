@@ -9,8 +9,21 @@ public static void main(String[] args) {
 		System.out.println("vad heter du?");
 		String namn = scan1.next();
 		
-		System.out.println("hur gammal är du");
+		System.out.println("hur gammal är du?");
 		int gammal = scan1.nextInt();
+		
+		System.out.println("vad är din adress?");
+		String adress = scan1.next();
+		
+		System.out.println("vad är ditt postnummer?");
+		int postnummer = scan1.nextInt();
+		
+		System.out.println("vilken stad bor du i?");
+		String stad = scan1.next();
+		
+		System.out.println("vad är ditt telefonummer?");
+		int nummer = scan1.nextInt();
+		
 		
 }
 }
