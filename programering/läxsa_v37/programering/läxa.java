@@ -25,12 +25,12 @@ public static void main(String[] args) {
 		int nummer = scan1.nextInt();
 		
 		System.out.println("Information");
-		System.out.println("namn" + namn);
-		System.out.println("ålder" + gammal);
-		System.out.println("adress" + adress);
-		System.out.println("postnummer" + postnummer);
-		System.out.println("stad" + stad);
-		System.out.println("telefonummer" + nummer);
+		System.out.println("namn" + namn +);
+		System.out.println("ålder" + gammal +);
+		System.out.println("adress" + adress +);
+		System.out.println("postnummer" + postnummer +);
+		System.out.println("stad" + stad +);
+		System.out.println("telefonummer" + nummer +);
 		
 }
 }
