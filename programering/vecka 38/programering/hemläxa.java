@@ -7,25 +7,28 @@ public class hemläxa {
 		Scanner input = new Scanner (System.in);
 		
 		System.out.println("skriv in ett heltal?");
-		String a = input.next();
+		int a = input.nextInt();
 		System.out.println("skriv in ett till heltal?");
-		String b = input.next();
+		int b = input.nextInt();
 		System.out.println("skriv in ett till heltal?");
-		String c = input.next();
+		int c = input.nextInt();
 		System.out.println("skriv in ett till heltal?");
-		String d = input.next();
+		int d = input.nextInt();
 		System.out.println("skriv in ett till heltal?");
-		String e = input.next();
+		int e = input.nextInt();
 		System.out.println("skriv in ett till heltal?");
-		String f = input.next();
+		int f = input.nextInt();
 		System.out.println("skriv in ett till heltal?");
-		String g = input.next();
+		int g = input.nextInt();
 		System.out.println("skriv in ett till heltal?");
-		String h = input.next();
+		int h = input.nextInt();
 		System.out.println("skriv in ett till heltal?");
-		String i = input.next();
+		int i = input.nextInt();
 		System.out.println("skriv in ett till heltal?");
-		String j = input.next();
+		int j = input.nextInt();
+		
+		
+		
 	}
 
 }
